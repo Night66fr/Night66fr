@@ -1,4 +1,4 @@
-## Hi there <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/67d7f8c1-016b-4da9-9709-2cd6c00549e2" />
+## Hi there <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/67d7f8c1-016b-4da9-9709-2cd6c00549e2" />
 
 Je suis Stan, un étudiant en cybersécurité à l'IUT de Béziers, France
 
