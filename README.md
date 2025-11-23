@@ -7,4 +7,15 @@ J'aime faire tout ce qui me passe par la tête
 Mes Tech principaux actuellement sont Python, HTML, CSS 
 
 Je souhaite continuer de me developer en apprenant JS, React, Tailwind ainsi que Typescript
+
 Et appronfondir des outils tel que WireShark
+
+# Fun Fact
+
+J'ai 2 chats
+
+J'aime pas le café
+
+J'adore les Séries
+
+Hobbies : Course à pied, Natation, BingeWatching
